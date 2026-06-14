@@ -1,0 +1,15 @@
+agent,metric,result
+Demand Prediction,Utilization RMSE,0.0391
+Demand Prediction,Utilization MAE,0.0236
+Demand Prediction,Utilization R2,0.95
+Demand Prediction,Congestion ROC-AUC,0.997
+Demand Prediction,Charging Load R2,0.974
+Tariff Pricing,"Revenue Gain % (smooth, e=-0.3)",-0.40%
+Tariff Pricing,"Revenue Gain % (threshold, e=-0.3)",-2.96%
+Tariff Pricing,Revenue range across elasticities (smooth),-0.45% to -0.31%
+Tariff Pricing,Revenue range across price bounds (±10–50%),-0.84% to -0.38%
+Monitoring & Learning,Waiting Time Reduction (proxy),54.46%
+Monitoring & Learning,Customer Response Rate,+0.16%
+Monitoring & Learning,Off-Peak Uplift,+0.45%
+Monitoring & Learning,Pricing Efficiency (₹/kWh),14.92 vs 15.00
+Monitoring & Learning,Optimal pricing strength (learned),0.60
